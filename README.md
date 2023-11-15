@@ -1,6 +1,4 @@
-Creating a detailed technical document requires a comprehensive understanding of the design decisions, architecture, and implementation details of the project. Below is a template for a technical explanation document for the blockchain-based peer-to-peer lending platform created for Bonny.
-
-# Technical Documentation: Peer-to-Peer Lending Platform
+# Technical Documentation - Bonny: Peer-to-Peer Lending Platform
 
 ## Document Version
 1.0.0
