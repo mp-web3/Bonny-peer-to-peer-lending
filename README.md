@@ -21,6 +21,15 @@ The platform is composed of several Smart Contracts deployed on the Ethereum blo
 - **BorrowerRequest.sol**: Contract for handling borrowers' credit requests.
 - **LoanMath.sol**: Library for financial calculations.
 
+# Contract Addresses
+
+| Contract Name       | Address                                    |
+|---------------------|--------------------------------------------|
+| LoanManager.sol     | `0x884c924D52D6c8688E5D4AE0b090A1eda09eEb70` |
+| LoanMath.sol        | `0x2d8103552f97C3657e8eC4723fe964BE5e36D461` |
+| BorrowerRequest.sol | `0xa190819409F3b4808Fce1A0fDFe00BaaB08b1d48` |
+| LenderProposal.sol  | `0x9D498284b718A41a561AE9bE84Cf1Cb9c4b261AB`   |
+
 ## Technical Choices
 
 ### Solidity
