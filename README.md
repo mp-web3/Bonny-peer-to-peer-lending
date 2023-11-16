@@ -22,6 +22,7 @@ The platform is composed of several Smart Contracts deployed on the Ethereum blo
 - **LoanMath.sol**: Library for financial calculations.
 
 # Contract Addresses
+Deployed on Goerli Testnet
 
 | Contract Name       | Address                                    |
 |---------------------|--------------------------------------------|
